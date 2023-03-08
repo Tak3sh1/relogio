@@ -1,0 +1,11 @@
+C:\Users\Lab0-00\source\repos\Relogio\Relogio\bin\Debug\Relogio.exe.config
+C:\Users\Lab0-00\source\repos\Relogio\Relogio\bin\Debug\Relogio.exe
+C:\Users\Lab0-00\source\repos\Relogio\Relogio\bin\Debug\Relogio.pdb
+C:\Users\Lab0-00\source\repos\Relogio\Relogio\obj\Debug\Relogio.csproj.AssemblyReference.cache
+C:\Users\Lab0-00\source\repos\Relogio\Relogio\obj\Debug\Relogio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lab0-00\source\repos\Relogio\Relogio\obj\Debug\Relogio.Relogio.resources
+C:\Users\Lab0-00\source\repos\Relogio\Relogio\obj\Debug\Relogio.Properties.Resources.resources
+C:\Users\Lab0-00\source\repos\Relogio\Relogio\obj\Debug\Relogio.csproj.GenerateResource.cache
+C:\Users\Lab0-00\source\repos\Relogio\Relogio\obj\Debug\Relogio.csproj.CoreCompileInputs.cache
+C:\Users\Lab0-00\source\repos\Relogio\Relogio\obj\Debug\Relogio.exe
+C:\Users\Lab0-00\source\repos\Relogio\Relogio\obj\Debug\Relogio.pdb
